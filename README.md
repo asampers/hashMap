@@ -1,6 +1,6 @@
 # HashMap in Ruby
 
-A implementation of building out a HashMap in Ruby, built as part of [The Odin Project](https://www.theodinproject.com/lessons/ruby-hashmap#project-solution).
+An implementation of building out a HashMap in Ruby, built as part of [The Odin Project](https://www.theodinproject.com/lessons/ruby-hashmap#project-solution).
 
 ### Contact
 
